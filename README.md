@@ -1,8 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I am Kenn KIBADI!
+
+---
+
 ![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)
 
 <!--
 **KennStack01/KennStack01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+💡I am a Software Engineer, Designer and a Life-long Learner, I use Technologies to Build Tech Products.
+
+I spend my time on Studying and Learning, using my Blog as a Space where I share what I am learning and exploring based on the Feynman Technique😉. Looking forward to reaching and helping more people by sharing my knowledge.
 
 
 Here are some ideas to get you started:
