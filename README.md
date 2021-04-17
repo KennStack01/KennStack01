@@ -29,7 +29,8 @@ My Twitter: [@KennKIBADI](https://twitter.com/KennKIBADI) • [My LinkedIn](http
 📰 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Think Like a Programmer? 🤔](https://stackoverblog.hashnode.dev/how-to-think-like-a-programmer)
+- [From Google, StackOverFlow to StackOverBlog 😍](https://stackoverblog.hashnode.dev/from-google-stackoverflow-to-stackoverblog)
 <!-- BLOG-POST-LIST:END -->
 
 
