@@ -8,8 +8,10 @@
 
 🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource, Startups and Business. 
 
-I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore based on the Feynman Technique😉. 
-# Looking forward to reaching and helping more people by sharing my knowledge.
+⚡I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore based on the Feynman Technique😉. Looking forward to reaching and helping more people by sharing my knowledge.
+
+
+📚📘 Studies Background: Electronic Information Engineering Major at [North China University of Technology](http://en.ncut.edu.cn/) • Introduction to Computer Science [CS50 at Harvard College](http://en.ncut.edu.cn/) • Google, Wikipedia, Youtube and Stackoverflow constitute my Favorite University.
 
 <!--
 **KennStack01/KennStack01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
