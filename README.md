@@ -37,9 +37,11 @@
 
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennstack01&show_icons=true&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennstack01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennstack01&show_icons=true&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
