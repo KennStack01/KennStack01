@@ -33,8 +33,15 @@
 - [From Google, StackOverFlow to StackOverBlog 😍](https://stackoverblog.hashnode.dev/from-google-stackoverflow-to-stackoverblog)
 <!-- BLOG-POST-LIST:END -->
 
-
 👉[...More Articles](stackoverblog.hashnode.dev)
+
+
+---
+[![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennstack01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennstack01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **KennStack01/KennStack01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
