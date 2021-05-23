@@ -33,8 +33,8 @@
 📰 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Think Like a Programmer? 🤔](https://stackoverblog.hashnode.dev/how-to-think-like-a-programmer)
-- [From Google, StackOverFlow to StackOverBlog 😍](https://stackoverblog.hashnode.dev/from-google-stackoverflow-to-stackoverblog)
+- [How to Think Like a Programmer? 🤔](https://kennstack.hashnode.dev/how-to-think-like-a-programmer)
+- [From Google, StackOverFlow to StackOverBlog 😍](https://kennstack.hashnode.dev/from-google-stackoverflow-to-stackoverblog)
 <!-- BLOG-POST-LIST:END -->
 
 👉[...More Articles](stackoverblog.hashnode.dev)
