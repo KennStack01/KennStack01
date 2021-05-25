@@ -4,15 +4,15 @@
 
 [![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/KennKIBADI)
 
-💡I am a Software Engineer and a Lifelong Learner, I use Technologies to Build Tech Products.
+💡I am a Software Engineer and Product Designer, I use Technologies to Build Tech Products.
 
 🛠 I'm not a Genius, I'm a Maker, a Builder.
-🔐 My Mission is to solve People's problems with Technology and creating Tools that simplify Engineers' lives.
+🔐 My Mission is to solve People's problems with Technology.
 📚 I'm ALWAYS learning Technologies, Physics and Business (Books + Internet).
 
 🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource, Startups and Business. 
 
-⚡I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore. I always like using the Feynman Technique myself, Looking forward to reaching and helping more people by sharing my knowledge.
+⚡I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore. I always like using the Feynman Technique, Looking forward to reaching and helping more people by sharing my knowledge.
 
 
 📚📘 Studies Background: Electronic Information Engineering at [North China University of Technology](http://en.ncut.edu.cn/) • Google, Wikipedia, Youtube and Stackoverflow constitute my Favorite University where I learn Computer Sciences, Physics and many subjects😊.
