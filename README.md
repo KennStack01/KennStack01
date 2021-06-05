@@ -4,7 +4,7 @@
 
 [![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/KennKIBADI)
 
-💡I am a Software Engineer and Product Designer, I use Technologies to Build Tech Products.
+💡 I am a Software Engineer and Product Designer, I use Technologies to Build Tech Products.
 
 🛠 I'm not a Genius, I'm a Maker, a Builder.
 🔐 My Mission is to solve People's problems with Technology.
