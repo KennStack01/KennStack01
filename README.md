@@ -37,7 +37,7 @@
 - [How to Think Like a Programmer? 🤔](https://kennstack.hashnode.dev/how-to-think-like-a-programmer)
 <!-- BLOG-POST-LIST:END -->
 
-👉[...More Articles](stackoverblog.hashnode.dev)
+👉[...More Articles](kennstack.hashnode.dev)
 
 
 ---
