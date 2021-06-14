@@ -6,7 +6,7 @@
 
 💡 I am a Software Engineer and Product Designer, I use Technologies to Build Products.
 
-🛠 I'm not a Genius, I'm a Builder.
+🛠 I'm not a Genius, I'm a Builder ;).
 🔐 Passionate about Problem Solving.
 📚 ALWAYS learning Technologies, Physics and Business (Books + Internet).
 
