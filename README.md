@@ -18,7 +18,7 @@
 📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/) • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn Computer Sciences, Physics, and many other subjects😊.
 
 
-### Direct Message 👉[Click here](https://kennstack.netlify.app/hire)
+## Direct Message 👉[Click here](https://kennstack.netlify.app/hire)
 
 
 
