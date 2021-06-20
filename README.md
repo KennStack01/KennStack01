@@ -15,7 +15,7 @@
 ⚡ I spend my time Studying and Learning, writing Blog articles, as a way of sharing what learning and exploring Science and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people by sharing my knowledge.
 
 
-📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/) • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn Computer Sciences, Physics, and many other subjects😊.
+📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/), in Beijing • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn Computer Sciences, Physics, and many other subjects😊.
 
 
 ## 👉[Direct Message](https://kennstack.netlify.app/hire)
