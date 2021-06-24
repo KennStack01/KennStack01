@@ -10,7 +10,7 @@
 🔐 Problem Solving is my Passion.
 📚 Always learning Technologies, Physics and Business (Books + Internet).
 
-🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource, Startups, and Business. 
+🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource Projects, Startups, and Business. 
 
 ⚡ I spend my time Studying and Learning, writing Blog articles, as a way of sharing what learning and exploring Science and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people by sharing my knowledge.
 
