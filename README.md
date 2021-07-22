@@ -7,7 +7,7 @@
 💡 I am a Software Engineer and Product Designer.
 
 🛠 I'm not a Genius, I'm a Builder.
-🔐 Problem Solving is my Passion.
+🔐 Problem Solving.
 📚 Always learning Technologies, Physics and Business (Books + Internet).
 
 🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource Projects, Startups, and Business. 
