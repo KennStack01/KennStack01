@@ -11,7 +11,7 @@
 
 🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource Projects, Startups, and Business. 
 
-⚡ I spend my time Studying and Learning, writing Blog articles, as a way of sharing what learning and exploring Sciences and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people.
+⚡ I spend my time Studying and Learning, writing Blog articles, as a way of sharing what learning and exploring Sciences and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people 😎.
 
 
 📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/), in Beijing • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn Computer Sciences, Physics, and many other subjects😊.
