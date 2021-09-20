@@ -4,7 +4,7 @@
 
 [![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/KennKIBADI)
 
-💡 Software Engineer, Product Designer & Indie Hacker.
+⛳ Software Engineer, Product Designer & Indie Hacker.
 
 🚧 I'm a Builder.
 📚 Always learning Technologies, Physics, and Business (Books + Internet).
