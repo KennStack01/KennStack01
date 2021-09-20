@@ -4,14 +4,14 @@
 
 [![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/KennKIBADI)
 
-💡 Software Engineer and Product Designer.
+💡 Software Engineer, Product Designer & Indie Hacker.
 
 🚧 I'm a Builder.
-📚 Always learning Technologies, Physics and Business (Books + Internet).
+📚 Always learning Technologies, Physics, and Business (Books + Internet).
 
 🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource Projects, Startups, and Business. 
 
-⚡ I spend my time Studying and Learning, writing Blog articles, Sharing Knowledge and exploring Sciences and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people 😎.
+⚡ I spend my time Studying and Learning, writing Blog articles, Sharing Knowledge, and exploring Sciences and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people 😎.
 
 
 📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/), in Beijing • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn.
