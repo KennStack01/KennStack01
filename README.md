@@ -6,7 +6,6 @@
 
 ⛳ Software Engineer, Product Designer & Indie Hacker.
 
-🚧 I'm a Builder.
 📚 Always learning Technologies, Physics, and Business (Books + Internet).
 
 🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource Projects, Startups, and Business. 
