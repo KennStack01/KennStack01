@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />! Kenn here 😅
+### Hi, It's Kenn here �<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 ---
 
 [![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/KennKIBADI)
