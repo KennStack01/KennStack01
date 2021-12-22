@@ -29,7 +29,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Creating Apps from Design to Code](https://kennstack.hashnode.dev/creating-apps-from-design-to-code)
-- [How to Think Like a Programmer? 🤔](https://kennstack.hashnode.dev/how-to-think-like-a-programmer)
+- [Building my Portfolio Website](https://kennstack.hashnode.dev/building-my-portfolio-website)
+- [How to Think like a Programmer? 🤔](https://kennstack.hashnode.dev/how-to-think-like-a-programmer)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...More Articles](kennstack.hashnode.dev)
