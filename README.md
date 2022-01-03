@@ -8,7 +8,7 @@
 📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/), in Beijing • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn.
 
 
-## 👉[WebContract](https://webcontract.io/)
+### 👉[WebContract](https://webcontract.io/)
 
 --- 
 
@@ -18,15 +18,15 @@
 
 ---
 
-📰 Latest Blog Articles
+<!-- 📰 Latest Blog Articles -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Apps from Design to Code](https://kennstack.hashnode.dev/creating-apps-from-design-to-code)
-- [Building my Portfolio Website](https://kennstack.hashnode.dev/building-my-portfolio-website)
-- [How to Think like a Programmer? 🤔](https://kennstack.hashnode.dev/how-to-think-like-a-programmer)
+<!-- - [Creating Apps from Design to Code](https://kennstack.hashnode.dev/creating-apps-from-design-to-code) -->
+<!-- - [Building my Portfolio Website](https://kennstack.hashnode.dev/building-my-portfolio-website) -->
+<!-- - [How to Think like a Programmer? 🤔](https://kennstack.hashnode.dev/how-to-think-like-a-programmer) -->
 <!-- BLOG-POST-LIST:END -->
 
-👉 [...More Articles](kennstack.hashnode.dev)
+<!-- 👉 [...More Articles](kennstack.hashnode.dev) -->
 
 
 ---
