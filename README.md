@@ -5,12 +5,6 @@
 
 ⛳ Software Engineer, Product Designer & Indie Hacker.
 
-📚 Always learning Technologies, Physics, and Business (Books + Internet).
-
-🎯 Interested in Software Engineering, Product Design and Architecture, Artificial Intelligence, Machine Learning, Robotics, Electrical Aircraft Design, Cloud Computing, OpenSource Projects, Startups, and Business. 
-
-⚡ I spend my time Studying and Learning, writing Blog articles, Sharing knowledge, and Exploring Sciences and Technology. Using the Feynman Technique, Looking forward to meeting and helping more people 😎.
-
 
 📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/), in Beijing • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn.
 
