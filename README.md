@@ -6,8 +6,8 @@
 ⛳ Software Engineer, Product Designer & Indie Hacker.
 
 
-- ### [Freelance Business](https://webcontract.io/)
-- ### [Youtube Channel](https://www.youtube.com/channel/UCAYruOydWaqSRnJqKPzR4Ag/)
+- ### [WebContract - Freelance Business](https://webcontract.io/)
+- ### [CodeWithKenn - Youtube](https://www.youtube.com/channel/UCAYruOydWaqSRnJqKPzR4Ag/)
 - ### [CodeWithKenn - Hashnode](https://hashnode.com/@CodeWithKenn)
 - ### [CodeWithKenn - Dev.to](https://dev.to/codewithkenn)
 
