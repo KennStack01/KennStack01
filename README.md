@@ -5,11 +5,10 @@
 
 ⛳ Software Engineer, Product Designer & Indie Hacker.
 
-
 📚📘 Studies Background: Electronic Information Engineering @ [North China University of Technology](http://en.ncut.edu.cn/), in Beijing • Google, Wikipedia, Youtube, and Stackoverflow constitute my Favorite University 💙 where I learn.
 
 
-## 👉[here you go](https://webcontract.io/)
+## 👉[WebContract](https://webcontract.io/)
 
 --- 
 
