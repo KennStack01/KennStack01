@@ -3,7 +3,7 @@
 
 [![My Twitter Account](https://img.shields.io/twitter/follow/KennKIBADI?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/KennKIBADI)
 
-### ⛳ Software Engineer, Product Designer & Indie Hacker.
+### ⛳ Software Engineer, Product Designer, Coding Instructor & Indie Hacker.
 
 
 - ### [WebContract - Freelance Business](https://webcontract.io/)
