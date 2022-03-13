@@ -59,6 +59,4 @@ src="https://img.shields.io/github/followers/KennStack01?logo=github&style=for-t
 
 <br /><br /><br /><br /><br />
 
-### Support Me
-
 <a href="https://www.buymeacoffee.com/KennKibadi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
