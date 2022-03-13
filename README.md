@@ -4,7 +4,7 @@ Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 Software Developer
 ------------------
 
-Software Engineer | JamStack Developer | Technical Writer | Learning and Teaching Code | Building Side Projects
+Software Engineer | JamStack Developer | Graphic Designer | Technical Writer | Learning and Teaching Code | Building Side Projects
 
 * 🌍  I'm based in Beijing
 * 🖥️  See my portfolio at [bio.link/iamKenn](http://bio.link/iamKenn)
