@@ -6,6 +6,16 @@ Software Developer
 
 Software Engineer | JamStack Developer | Graphic Designer | Technical Writer | Learning and Teaching Code | Building Side Projects
 
+<a href="https://www.twitter.com/KennKibadi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+/></a> <a href="https://www.linkedin.com/in/kennkibadi/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://codewithkenn.hashnode.dev/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>  <a href="https://dev.to/codewithkenn" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCAYruOydWaqSRnJqKPzR4Ag" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://www.github.com/KennStack01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://stackoverflow.com/users/13430218/kenn" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+
 * 🌍 I'm based in Beijing
 * 🖥️ See my portfolio at [bio.link/iamKenn](http://bio.link/iamKenn)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
