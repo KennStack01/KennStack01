@@ -9,9 +9,9 @@ Software Engineer | JamStack Developer | Graphic Designer | Technical Writer | L
 * 🌍 I'm based in Beijing
 * 🖥️ See my portfolio at [bio.link/iamKenn](http://bio.link/iamKenn)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
-* 🚀 I'm currently working on [WebContract](http://webcontract.io)
-* 🧠 I'm learning Web3 and Machine Learning
-* 🤝 I'm open to collaborating on Freelance Work | Dev Advocacy | Side Projects
+* 🚀 Currently working on [WebContract](http://webcontract.io)
+* 🧠 Learning Web3 and Machine Learning
+* 🤝 Open to collaborating on Freelance Work | Dev Advocacy | Side Projects
 * 💙 If Your Company builds Products and Solutions for Developers, COUNT ME IN 💪
 * ⚡ I'm a Big Fan of Martial Art and Boxing 🥊
 
