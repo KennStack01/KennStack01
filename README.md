@@ -11,8 +11,9 @@ Software Engineer | JamStack Developer | Graphic Designer | Technical Writer | L
 * ✉️  You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
 * 🚀  I'm currently working on [WebContract](http://webcontract.io)
 * 🧠  I'm learning Web3 and Machine Learning
-* 🤝  I'm open to collaborating on Freelance Work | Dev Advocacy |
-* ⚡  I'm a Big Fan of Martial Art and Boxing 🥊
+* 🤝  I'm open to collaborating on Freelance Work | Dev Advocacy | Side Projects
+* 💙  If Your Company builds Products and Solutions for Developers, COUNT ME IN 💪
+* ⚡  I'm a Big Fan of Martial Art and Boxing 🥊
 
 <a href="https://www.twitter.com/KennKibadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KennKibadi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
