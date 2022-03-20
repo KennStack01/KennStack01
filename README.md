@@ -25,10 +25,10 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 * 💙 If Your Company builds Products and Solutions for Developers, COUNT ME IN 💪
 * ⚡ I'm a Big Fan of Martial Art and Boxing 🥊
 
-<a href="https://www.twitter.com/KennKibadi" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.twitter.com/KennKibadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KennKibadi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a><a href="https://www.github.com/KennStack01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KennStack01?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/KennStack01?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a> -->
 
 ### Skills
 
