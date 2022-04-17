@@ -19,6 +19,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 * 🌍 I'm based in Beijing
+* 💼 Offering Python Developers Jobs (Backend & AI/ML) at [pyhunt.com](https://www.pyhunt.com/)
 * 👔 Creator of  [helloPython](https://hellopython.vercel.app/) & [helloReact](https://helloreact-beta.vercel.app/)
 * 🖥️ See my portfolio at [bio.link/iamKenn](http://bio.link/iamKenn)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
