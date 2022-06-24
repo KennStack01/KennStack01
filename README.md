@@ -1,4 +1,4 @@
-Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> My name is Kenn
+Hi 👋 My name is Kenn
 =====================
 
 Software Developer
@@ -19,8 +19,8 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 * 🌍 I'm based in Beijing
-* 💼 Helping Python Backend and AI/ML Engineers to get Jobs (Backend & AI/ML) at [pyhunt.com](https://www.pyhunt.com/)
-* 👔 Creator of  [helloPython](https://hellopython.vercel.app/) & [helloReact](https://helloreact-beta.vercel.app/)
+* 💼 Founder @ [pyhunt.com](https://www.pyhunt.com/)
+* 👔 Creator of [helloPython](https://hellopython.vercel.app/)
 * 🖥️ See my portfolio at [bio.link/iamKenn](http://bio.link/iamKenn)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
 * 🚀 Currently working on [WebContract](http://webcontract.io)
