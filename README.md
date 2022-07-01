@@ -21,7 +21,7 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 * 🌍 I'm based in Beijing
 * 💼 Founder @ [pyhunt.com](https://www.pyhunt.com/)
 * 👔 Creator of [helloPython](https://hellopython.vercel.app/)
-* 🖥️ See my portfolio at [bio.link/iamKenn](http://bio.link/iamKenn)
+* 🖥️ Dev Website at [codewithkenn.com](http://codewithkenn.com)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
 * 🚀 Currently working on [WebContract](http://webcontract.io)
 * 🧠 Learning Web3 and Machine Learning
