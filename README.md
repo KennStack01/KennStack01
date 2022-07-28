@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 * 🧠 Learning Web3 and Machine Learning
 * 🤝 Open to collaborating on Freelance Work | Dev Advocacy | Side Projects
 * 💙 If Your Company builds Products and Solutions for Developers, COUNT ME IN 💪
-* ⚡ I'm a Big Fan of Martial Art and Boxing 🥊
+* ⚡ I'm a Big Fan of Martial Arts and Boxing 🥊
 
 <!-- <a href="https://www.twitter.com/KennKibadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KennKibadi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
