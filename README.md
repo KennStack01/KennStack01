@@ -23,7 +23,7 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 * 👔 Creator of [hackerzip](https://hackerzip.com/) | [helloPython](https://hellopython.vercel.app/)
 * 🖥️ Dev Website at [codewithkenn.com](http://codewithkenn.com)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
-* 🚀 Currently working on [WebContract](http://webcontract.io)
+* 🚀 Currently working on [Pyhunt](http://pyhunt.com)
 * 🧠 Learning Web3 and Machine Learning
 * 🤝 Open to collaborating on Freelance Work | Dev Advocacy | Side Projects
 * 💙 If Your Company builds Products and Solutions for Developers, COUNT ME IN 💪
