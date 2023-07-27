@@ -4,7 +4,7 @@ Hi 👋 My name is Kenn
 Software Developer
 ------------------
 
-Software Engineer | JamStack Developer | Graphic Designer | Technical Writer | Learning and Teaching Code | Building Side Projects
+Software Engineer | Technical Writer
 
 <a href="https://codewithkenn.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
@@ -19,7 +19,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 * 🌍 I'm based in Beijing
-* 💼 Founder @ [earlyAccess.to](https://www.earlyAccess.to/)
+* 💼 Founder [earlyaccess.to](https://www.earlyaccess.to/)|[earlysaas.to](https://www.earlysaas.to)
 <!-- * 👔 Creator of [hackerzip](https://hackerzip.com/) | [helloPython](https://hellopython.vercel.app/) -->
 * 🖥️ Dev Website at [codewithkenn.com](http://codewithkenn.com)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
