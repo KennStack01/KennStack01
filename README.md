@@ -24,8 +24,8 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 * 🖥️ Dev Website at [codewithkenn.com](http://codewithkenn.com)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
 * 🚀 Currently working on [earlyAccess](http://earlyaccess.to)
-* 🧠 Learning Web3 and Machine Learning
-* 🤝 Open to collaborating on Freelance Work | Dev Advocacy | Side Projects
+* 🧠 Learning Machine Learning
+* 🤝 Open to being hired
 * 💙 If Your Company builds Products and Solutions for Developers, COUNT ME IN 💪
 * ⚡ I'm a Big Fan of Martial Arts and Boxing 🥊
 
