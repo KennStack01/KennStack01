@@ -4,7 +4,7 @@ Hi 👋 My name is Kenn
 Software Developer
 ------------------
 
-Software Engineer | Technical Writer
+Software Engineer | Technical Writer | I write code for a living
 
 <a href="https://codewithkenn.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
