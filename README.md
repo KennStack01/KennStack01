@@ -1,8 +1,8 @@
 Hi 👋 My name is Kenn
 =====================
 
-Software Developer
-------------------
+<!-- Software Developer -->
+<!-- ------------------ -->
 
 Software Engineer | Technical Writer | I write code for a living
 
