@@ -1,4 +1,4 @@
-Hi 👋 My name is Kenn
+Hi 👋 I'm Kenn
 =====================
 
 <!-- Software Developer -->
