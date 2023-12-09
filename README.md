@@ -24,7 +24,7 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 * 🖥️ Dev Website at [codewithkenn.com](http://codewithkenn.com)
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
 * 🚀 Currently working on [earlyAccess](http://earlyaccess.to)
-* 🧠 Learning Machine Learning
+* 🧠 Learning Machine Learning (Deep Learning)
 * ⚡ I'm a Big Fan of Martial Arts and Boxing 🥊
 
 <!-- <a href="https://www.twitter.com/KennKibadi" target="_blank" rel="noreferrer"><img
