@@ -19,7 +19,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 * 🌍 I'm based in Beijing
-* 💼 Founder [EarlyAccessHQ.com](https://www.earlyaccesshq.com/)
+* 💼 Founder [EarlyAccessHQ.com](https://www.earlyaccesshq.com/), [LinkInWeb.com](https://www.linkinweb.com/)
 <!-- * 👔 Creator of [hackerzip](https://hackerzip.com/) | [helloPython](https://hellopython.vercel.app/) -->
 <!--  * 🖥️ Dev Website at [codewithkenn.com](http://codewithkenn.com) -->
 * ✉️ You can contact me at [kibadikennedy@gmail.com](mailto:kibadikennedy@gmail.com)
